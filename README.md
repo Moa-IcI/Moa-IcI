@@ -5,4 +5,4 @@ Making a game with Python and friends
 Learning Python and [Web Design(HTML, CSS, JavaScript)](https://longnecksoftware.ch)
 
 Contact:
-[Discord](www.discord.com/@moa_ici)
+[Discord](https://www.discord.com/@moa_ici)
