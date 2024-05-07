@@ -1,11 +1,11 @@
 # GIRAFFE GANG        
-
->   /)/)
->  ( ..\ 
->  /'-._)  
-> /#/ 
->/#/
-
+```
+   /)/)
+  ( ..\ 
+  /'-._)  
+ /#/ 
+/#/
+```
 Hi, I’m @Moa-IcI.
 
 Making a game with Python and friends
