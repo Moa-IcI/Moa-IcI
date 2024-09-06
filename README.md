@@ -6,7 +6,7 @@
   /'-._)  
  /#/ 
 /#/
-Join it: have fun
+Join it
 ```
 Hi, I’m @Moa-IcI.
 
