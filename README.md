@@ -1,12 +1,9 @@
-# GIRAFFE GANG
-
 ```
    /)/)
   ( ..\ 
   /'-._)  
  /#/ 
 /#/
-Join it
 ```
 Hi, I’m @Moa-IcI.
 
